@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
   int l,count=0;
-  printf("no to find prime");
+  printf("prime no up to");
   scanf("%d",&l);
   for (int n=1;n<=l;n++){
     int check=2 ,flag=0;
